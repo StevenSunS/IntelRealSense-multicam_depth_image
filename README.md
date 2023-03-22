@@ -2,8 +2,9 @@
  
 # Overview
 
-# Setup
+# Requirements
 
+In virtual environment, run `pip install opencv-python numpy pyrealsense2 open3d`
 
 
 # Reference
