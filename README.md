@@ -1,4 +1,4 @@
-# Intel RealSense D400s Image Generation from Multiple Camera Setting
+# Intel RealSense D400s Imaging with Multiple Camera Setting
  
 # Overview
 
