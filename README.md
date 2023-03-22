@@ -1,7 +1,7 @@
-# Intel RealSense D400s Imaging with Multiple Camera Setting
+# Intel RealSense D400s Depth Image Cross Registration with Multiple Camera Setting
  
 # Overview
-The project is a custom implementation of Intel RealSense Python Wrapper to achieve synchronized imaging of overlapped field of view using multiple camera setup. The output of the sample code can be cross-registered point cloud in `npy` or `ply` format, or a RGB-D image pair.
+The project is a expansion from Intel RealSense Python Wrapper to achieve synchronized imaging of overlapped field of view using multiple camera setup. The output of the sample code can be cross-registered point cloud in `npy` or `ply` format, or a RGB-D image pair.
 
 ## Example
 Depth image from left camera View:
