@@ -17,6 +17,16 @@ If module `pyrealsense2` is cannot be found via `pip`, consider [https://github.
 
 # Workflow
 
+1. Field of View Calibration
+
+![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/calibration_instruction.png)
+
+2. Start the Program
+
+3. RGB-D Data Live Stream
+
+4. Save RGB-D Image Pair and Point Cloud Data upon Exit
+
 
 # Reference
 Box dimensions calculation using multiple realsense camera: [https://github.com/IntelRealSense/librealsense/tree/master/wrappers/python/examples/box_dimensioner_multicam]
