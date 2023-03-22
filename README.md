@@ -3,6 +3,12 @@
 # Overview
 The project is a custom implementation of Intel RealSense Python Wrapper to achieve synchronized imaging of overlapped field of view using multiple camera setup. The output of the sample code can be cross-registered point cloud in `npy` or `ply` format, or a RGB-D image pair.
 
+## Example
+
+
+
+
+
 ## Notes
 Multiple camera imaging also supports Framos cameras D415e. However, Intel RealSense device manager only supports connection over USB, Framos SDK provides support for GigE connection. Download SDK via [https://www.framos.com/en/industrial-depth-cameras#downloads].
 
@@ -17,7 +23,7 @@ If module `pyrealsense2` is cannot be found via `pip`, consider [https://github.
 
 # Workflow
 
-1. Field of View Calibration
+1. Calibration
 
 Place Charuco board inside field of view. The Charuco board used in the project is 9x12. To change a Charuco board size, open `calibration.py` and access Charuco definition in funtion `cv_find_charuco`.
 
