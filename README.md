@@ -7,12 +7,12 @@ The project is a custom implementation of Intel RealSense Python Wrapper to achi
 Depth image from left camera View:
 
 
-![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/example/802212061078_depth.png)
+![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/example/left_depth.png)
 
 Depth image from right camera view:
 
 
-![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/example/932122062167_depth.png)
+![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/example/right_depth.png)
 
 Merged Depth Image:
 
