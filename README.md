@@ -4,11 +4,8 @@
 
 
 
-
 ## Notes
-Framos cameras D415e can also use the same module for multiple camera imaging. Intel RealSense device manager only supports connection over USB, Framos SDK provides support for GigE connection. Download SDK via [https://www.framos.com/en/industrial-depth-cameras#downloads].
-
-
+Multiple camera imaging also supports Framos cameras D415e. However, Intel RealSense device manager only supports connection over USB, Framos SDK provides support for GigE connection. Download SDK via [https://www.framos.com/en/industrial-depth-cameras#downloads].
 
 
 # Requirements
