@@ -19,6 +19,8 @@ If module `pyrealsense2` is cannot be found via `pip`, consider [https://github.
 
 1. Field of View Calibration
 
+Place Charuco board inside field of view. The Charuco board used in the project is 9x12. To change a Charuco board size, open `calibration.py` and access Charuco definition in funtion `cv_find_charuco`.
+
 ![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/calibration_instruction.png)
 
 2. Start the Program
