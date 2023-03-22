@@ -2,12 +2,20 @@
  
 # Overview
 
+
+
+
+## Notes
+Framos cameras D415e can also use the same module for multiple camera imaging. Intel RealSense device manager only supports connection over USB, Framos SDK provides support for GigE connection. Download SDK via [https://www.framos.com/en/industrial-depth-cameras#downloads].
+
+
+
+
 # Requirements
 
 - Install Python3
 - In virtual environment, run `pip install opencv-python numpy pyrealsense2 open3d`
 
-## Notes
 If module `pyrealsense2` is cannot be found via `pip`, consider [https://github.com/IntelRealSense/librealsense/issues/5777#issuecomment-582480988].
 
 # Reference
