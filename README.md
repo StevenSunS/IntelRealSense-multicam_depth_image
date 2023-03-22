@@ -4,7 +4,8 @@
 
 # Requirements
 
-In virtual environment, run `pip install opencv-python numpy pyrealsense2 open3d`
+- Install Python3
+- In virtual environment, run `pip install opencv-python numpy pyrealsense2 open3d`
 
 
 # Reference
