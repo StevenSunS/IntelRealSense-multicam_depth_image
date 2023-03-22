@@ -4,10 +4,14 @@
 The project is a custom implementation of Intel RealSense Python Wrapper to achieve synchronized imaging of overlapped field of view using multiple camera setup. The output of the sample code can be cross-registered point cloud in `npy` or `ply` format, or a RGB-D image pair.
 
 ## Example
+Depth image from left camera View:
+![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/example/802212061078_depth.png)
 
+Depth image from right camera view:
+![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/example/932122062167_depth.png)
 
-
-
+Merged Depth Image:
+![alt text](https://github.com/StevenSunS/IntelRealSense-multicam_depth_image/blob/main/example/merged_depth.png)
 
 ## Notes
 Multiple camera imaging also supports Framos cameras D415e. However, Intel RealSense device manager only supports connection over USB, Framos SDK provides support for GigE connection. Download SDK via [https://www.framos.com/en/industrial-depth-cameras#downloads].
