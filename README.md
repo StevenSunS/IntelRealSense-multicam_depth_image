@@ -1,4 +1,4 @@
-# IntelRealSense-multicam_depth_image
+# Intel RealSense D400s Image Generation from Multiple Camera Setting
  
 # Overview
 
